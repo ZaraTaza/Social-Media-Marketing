@@ -42,7 +42,7 @@ These differences could be due to factors such as pricing, localisation and targ
 
 ![Country Demographics](https://github.com/ZaraTaza/Social-Media-Marketing/blob/main/visuals/country_chart.png)
 
-**4) Campaign Budgets**
+**4) Campaign Budgeting and Efficiency**
 
 Allocated budget per purchase varied substantially across campaigns, ranging from $118 to $6,512 (which is approximately a 55× difference). This suggests that larger allocated budgets do not necessarily correspond to greater budget efficiency. 
 
